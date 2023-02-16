@@ -17,7 +17,7 @@ function checkboxes(widget) {
     }
   }
 
-	let actions = [{
+  let actions = [{
     element: cball,
     event: 'click',
     handler: handleCheckboxAllClick
